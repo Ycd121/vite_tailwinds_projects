@@ -13,7 +13,7 @@ How setup a project using Vite and Tailwind
 
 5- npm install -D tailwindcss postcss autoprefixer
 
-6- npx tailwindcss init -p
+6- npx tailwindcss init -p --full
 
 7- create src folder add  :  input.css   and add:          
 
